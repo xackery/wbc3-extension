@@ -1,0 +1,18 @@
+{
+  "include": [
+    "wbc3_sprite_tools"
+  ],
+  "exclude": [
+    "bin",
+    "**/__pycache__"
+  ],
+  "extraPaths": [
+    ".",
+    ".venv/Lib/site-packages",
+    ".venv/lib/site-packages"
+  ],
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "warning",
+  "reportMissingTypeStubs": "none"
+}

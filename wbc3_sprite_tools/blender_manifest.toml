@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "wbc3_sprite_tools"
+version = "0.1.0"
+name = "WBC3 Sprite Tools"
+tagline = "Render WBC3-style directional animation spritesheets"
+maintainer = "xackery"
+type = "add-on"
+
+blender_version_min = "3.6.0"
+license = ["SPDX:MIT"]
+
+tags = ["Import-Export", "Animation", "Render"]
